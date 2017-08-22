@@ -11,6 +11,10 @@ public class test {
         return x+y;
     }
 
+    public void print(){
+
+        System.out.println("dev");
+    }
     public static void main(String[] args) {
 
     }
